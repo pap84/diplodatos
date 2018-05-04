@@ -2,7 +2,7 @@
 
 *Por* Mauricio Clerici y Pedro Pérez
 
-Como declaran [*Bard Wigdor* y *Artazo*][1], el femicidio constituye "*la expresión más radical del masculinismo heterosexual dominante*", o lo que a grandes rasgos puede identificarse como el sistema de relaciones interpersonales y poder denominado comúnmente *heteropatriarcado*. Los autores de este artículo, hombres blancos heterosexuales (o *cisgénero*), vemos con preocupación la situación de violencia machista
+Como declaran *Bard Wigdor* y *Artazo*[^1], el femicidio constituye "*la expresión más radical del masculinismo heterosexual dominante*", o lo que a grandes rasgos puede identificarse como el sistema de relaciones interpersonales y poder denominado comúnmente *heteropatriarcado*. Los autores de este artículo, hombres blancos heterosexuales (o *cisgénero*), vemos con preocupación la situación de violencia machista 
 
 
 ![femicidio por provincias](img/femicidios_por_prov.png "femicidio por provincia")

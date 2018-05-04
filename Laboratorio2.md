@@ -34,9 +34,9 @@ Una visión más integral de la cuestión del femicidio, necesita de un análisi
 
 De todas formas, es en esta época donde comienza el movimiento "#NiUnaMenos" y el Estado comienza a hablar del tema. Por lo que un análisis con datos previos implicaría considerar otras variables.
 
-### Victimas principales y vinculadas
+### Víctimas principales y vinculadas
 
-Al momento, los datos analizados incluyen el total de víctimas en situaciones de femicidios, tanto las principales como vinculadas. Entendiendo por vinculadas, aquellas victimas que al momento del crimen fueron asesinadas por tener alguna relación familiar y/o afectiva con la víctima principal.
+Al momento, los datos analizados incluyen el total de víctimas en situaciones de femicidio, tanto las principales como vinculadas. Entendiendo por vinculadas, aquellas víctimas que al momento del crimen fueron asesinadas por tener alguna relación familiar y/o afectiva con la víctima principal.
 
 Es importante observar la cantidad de femicidios desde 2012, no solo contemplando el cambio de gobierno de 2015 sino también la cantidad de víctimas totales y principales.
 
@@ -46,11 +46,11 @@ Se puede observar así, el crecimiento en la cantidad de femicidios por año. El
 
 También se observa el crecimiento ante el cambio de gobierno, ya que en el gráfico se ha diferenciado con distinto color de barra a los años pertenecientes al gobierno de Cristina Fernandez de Kirchner (celeste) y al de Mauricio Macri (amarillo).
 
-Las noticias periodísticas suelen mostrar casos de víctimas jóvenes, por lo general entre 20 y 35 años, por lo que es necesario verificar esto haciendo un análisis de la edad de las víctimas. Para esto, descartamos las víctimas hombes (todas vinculadas) y podemos ver que las mujeres asesinadas por femicidio coinciden con lo que se suele mostrar, encontrándose por lo general entre los 20 y los 40 años.
+Las noticias periodísticas suelen mostrar casos de víctimas jóvenes, por lo general entre 20 y 35 años, por lo que es necesario verificar esto haciendo un análisis de la edad de las víctimas. Para esto, descartamos las víctimas hombres (todas vinculadas) y podemos ver que las mujeres asesinadas por femicidio coinciden con lo que se suele mostrar, encontrándose por lo general entre los 20 y los 40 años.
 
 ![edad victimas](img/edad_muertas.png "edad de las víctimas")
 
-Aquí podemos ver que el 50% de las víctimas se ubican en un rango entre los 21 y 42 años, con una mediana de 30	años. También sabemos por los datos que la media es de 32 años y que la moda de 22; y por último que las víctimas de mas de 73 años son datos anomalos o *outliers*. Esto nos da la idea de que la mayoria de las víctimas son mujeres jóvenes mayores de edad. Algo preocupante de estos datos oficiales, es que no brindan ninguna información acerca del femicida o su relación con la víctima.
+Aquí podemos ver que el 50% de las víctimas se ubican en un rango entre los 21 y 42 años, con una mediana de 30	años. También sabemos por los datos que la media es de 32 años y que la moda de 22; y por último que las víctimas de más de 73 años son datos anómalos o *outliers*. Esto nos da la idea de que la mayoría de las víctimas son mujeres jóvenes mayores de edad. Algo preocupante de estos datos oficiales, es que no brindan ninguna información acerca del femicida o su relación con la víctima.
 
 ### Evolución temporal en las provincias
 
@@ -62,9 +62,9 @@ Las tendencias cambian de provincia en provincia, pero como algunas de la mismas
 
 ![femicidio por regiones](img/femicidio_x_regiones.png "femicidio por regiones")
 
-Este gráfico da una señal de alarma. Las regiones de Cuyo, Patagonia y Noreste han disminuido la cantidad de femicidios de 2016 a 2017, pero las regiones Pampeana y Noroeste han aumentado. Además, para lo que va de 2018, las 3 que habían disminuido en 2017 ya sobrepasaron el 50% de 2017 sin haber pasado un 30% del año 2018.
+Este gráfico da una señal de alarma. Las regiones de Cuyo, Patagonia y Noreste han disminuido la cantidad de femicidios de 2016 a 2017, pero las regiones Pampeana y Noroeste han aumentado. Además, para lo que va de 2018, las 3 que habían disminuido en 2017 ya sobrepasaron el 50% de 2017 sin haber transcurrido  aún el 30% del año 2018.
 
-La situación más alarmante, en cambio, la tiene la región noreste donde la cantidad de femicidios prácticamente se duplicó de 2016 a 2017. El comportamiento parece no ser homogeneo en el país y son necesarios esfuerzos muy grandes desde la sociedad y el estado para atacar la problemática en las provincias del noreste argentino.
+La situación más alarmante, en cambio, la tiene la región noroeste donde la cantidad de femicidios prácticamente se duplicó de 2016 a 2017. El comportamiento parece no ser homogeneo en el país y son necesarios esfuerzos muy grandes desde la sociedad y el estado para atacar la problemática en las provincias del noroeste argentino.
 
 ## "La maté porque es mía"
 
@@ -72,13 +72,13 @@ Para analizar el comportamiento de los femicidas e intentar dilucidar las causas
 
 ### Ella, ellos, elles
 
-El estudio de los casos muestra que la gran mayoría de las victimas son mujeres, al punto que es necesario graficar en escala logarítmica para ver la contribución del resto de los géneros.
+El estudio de los casos muestra que la gran mayoría de las víctimas son mujeres, al punto que es necesario graficar en escala logarítmica para ver la contribución del resto de los géneros.
 
 ![Víctimas por género](img/por_genero.png "femicidio por genero")
 
 ### Tus niños/as, mis niños/as
 
-Pero para ver a quiénes se ataca cuando se quiere lastimar a la mujer, los femicidas actuan sobre determinados grupos etarios también.
+Pero para ver a quiénes se ataca cuando se quiere lastimar a la mujer, los femicidas actúan sobre determinados grupos etarios también.
 
 ![Edad víctimas vinculadas](img/edad_vinculadas.png "femicidio vinculadas_edad")
 

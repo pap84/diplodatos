@@ -24,7 +24,7 @@ Mientras que, para maximizar la interpretación de la tabla, es conveniente pres
 
 Se puede observar el cambio en la relación entre las provincias al analizar la tasa de mortalidad, cantidad más relevante para el estudio de estos fenómenos.
 
-A pesar de que desde 2012 han muerto mucho más personas en las provincias de Buenos Aires, Córdoba y Santa Fé, se puede observar que es más peligroso para una mujer vivir en Santiago del Estero o Salta, donde mueren casi 6 y 5 cada 100 mil habitantes respectivamente.
+A pesar de que desde 2012 han muerto mucho más personas en las provincias de Buenos Aires, Córdoba y Santa Fé, se puede observar que es más peligroso para una mujer vivir en Santiago del Estero o Salta, donde mueren entre 5 y 6 mujeres cada 100 mil habitantes.
 
 La tendencia natural para continuar el estudio es observar el PBI per cápita de cada provincia, lo cual muestra que, de las 4 provincias con mayor tasa de femicidios, 3 pertenecen a las más pobres. La excepción es Salta. Pero "*correlación no implica causalidad*" y esto obliga a investigar en otros factores socio-culturales, como el caso de la religiosidad. Aspecto que escapa a este artículo.
 

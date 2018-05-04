@@ -2,7 +2,7 @@
 
 *Por* Mauricio Clerici y Pedro Pérez
 
-Como declaran *Bard Wigdor* y *Artazo*[^1], el femicidio constituye "*la expresión más radical del masculinismo heterosexual dominante*", o lo que a grandes rasgos puede identificarse como el sistema de relaciones interpersonales y poder denominado comúnmente *heteropatriarcado*. Los autores de este artículo, hombres blancos heterosexuales (o *cisgénero*), vemos con preocupación la situación de violencia machista 
+Como declaran *Bard Wigdor* y *Artazo* [1], el femicidio constituye "*la expresión más radical del masculinismo heterosexual dominante*", o lo que a grandes rasgos puede identificarse como el sistema de relaciones interpersonales y poder denominado comúnmente *heteropatriarcado*. Los autores de este artículo, hombres blancos heterosexuales (o *cisgénero*), vemos con preocupación la situación de violencia machista 
 
 
 ![femicidio por provincias](img/femicidios_por_prov.png "femicidio por provincia")
@@ -38,4 +38,4 @@ Este gráfico nos muestra algo alarmante mientras que en la mayoría de las regi
 Como podemos ver el comportamiento no es homogeneo en el país y la región que peor esta es la del noroeste.(Pedrohasta aca llegue yo)
 
 
-[1]: *"La maté porque es mía": femicidios en la provincia de Córdoba*. **G. Bard Wigdor & G.C. Artazo**, [Revista Latinoamericana de Estudios de Seguridad, No. 17, Quito, diciembre 2015, pp. 67-79](http://repositorio.flacsoandes.edu.ec/bitstream/10469/7962/1/RFLACSO-Ur17-05-Bard.pdf).
+[1] *"La maté porque es mía": femicidios en la provincia de Córdoba*. **G. Bard Wigdor & G.C. Artazo**, [Revista Latinoamericana de Estudios de Seguridad, No. 17, Quito, diciembre 2015, pp. 67-79](http://repositorio.flacsoandes.edu.ec/bitstream/10469/7962/1/RFLACSO-Ur17-05-Bard.pdf).

@@ -2,10 +2,15 @@
 
 *Por* Mauricio Clerici y Pedro Pérez
 
-Como declaran *Bard Wigdor* y *Artazo* [1], el femicidio constituye "*la expresión más radical del masculinismo heterosexual dominante*", o lo que a grandes rasgos puede identificarse como el sistema de relaciones interpersonales y poder denominado comúnmente *heteropatriarcado*. Los autores de este artículo, hombres blancos heterosexuales (o *cisgénero*), vemos con preocupación la situación de violencia machista 
+Como declaran *Bard Wigdor* y *Artazo* [1], el femicidio constituye "*la expresión más radical del masculinismo heterosexual dominante*", o lo que a grandes rasgos puede identificarse como el sistema de relaciones interpersonales y poder denominado comúnmente *heteropatriarcado*. Los autores de este artículo, hombres blancos heterosexuales (o simplemente *cisgénero*), vemos con preocupación la situación de violencia machista actual e intentamos aportar, desde un análisis estadístico sobre las [cifras oficiales]('http://datos.jus.gob.ar/dataset/27bb9b2c-521b-406c-bdf9-98110ef73f34/resource/a2e1c899-cbaa-4bf6-b623-6648f150cab0/download/registro-de-femicidios-2018-04-13.csv'), a la búsqueda de las causas que lo originan y las deficiencias sistémicas que lo permiten.
+
+En su artículo, *Bard Wigdor* y *Artazo* señalan a Córdoba como la segunda provincia con mayor cantidad de femicidios, detras de la provincia de Buenos Aires. Lo cual es correcto desde el punto de vista estrictamente numérico ante la pregunta: ¿cuántas mujeres mueren por año en cada provincia argentina?
+
+La gráfica ordenada de la cantidad de femicidios por provincia en la república argentina, desde 2012, muestra claramente lo que las investigadoras marcan con preocupación.
+
+![femicidio por provincias](img/total_muertes_femicidio.png "femicidio por provincia")
 
 
-![femicidio por provincias](img/femicidios_por_prov.png "femicidio por provincia")
 
 Cuando vemos este gráfico lo primero que pensamos es que claramente buenos aires tiene un problema serio respecto a la violencia de género, pero este es un análisis incompleto, ya que aunque este primero en la cantidad de femicidios registrados desde 2012, la densidad poblacional es mucho mayor que el resto del país. Es por esto que lo primero que hicimos es ver la cantidad de femicidios por cada 100 mil habitantes, lo que nos lleva a los siguientes datos:
 

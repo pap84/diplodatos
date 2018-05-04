@@ -1,5 +1,9 @@
-Análisis de los femicidios en las distintas regiones del pais
-==============================================================
+# Femicidio: expresión más radical del heteropatriarcado
+
+*Por* Mauricio Clerici y Pedro Pérez
+
+Como declaran [*Bard Wigdor* y *Artazo*][1], el femicidio constituye "*la expresión más radical del masculinismo heterosexual dominante*", o lo que a grandes rasgos puede identificarse como el sistema de relaciones interpersonales y poder denominado comúnmente *heteropatriarcado*. Los autores de este artículo, hombres blancos heterosexuales (o *cisgénero*), vemos con preocupación la situación de violencia machista
+
 
 ![femicidio por provincias](img/femicidios_por_prov.png "femicidio por provincia")
 
@@ -32,3 +36,6 @@ Claramente ls tendencias cambian de provincia en provincia, pero como algunas de
 Este gráfico nos muestra algo alarmante mientras que en la mayoría de las regiones la cantidad de femicidios ha disminuido de 2016 a 2017, en la región pampeana aumento levemente y en la región del noroeste aumento significativamente a casi el doble de casos.
 
 Como podemos ver el comportamiento no es homogeneo en el país y la región que peor esta es la del noroeste.(Pedrohasta aca llegue yo)
+
+
+[1]: *"La maté porque es mía": femicidios en la provincia de Córdoba*. **G. Bard Wigdor & G.C. Artazo**, [Revista Latinoamericana de Estudios de Seguridad, No. 17, Quito, diciembre 2015, pp. 67-79](http://repositorio.flacsoandes.edu.ec/bitstream/10469/7962/1/RFLACSO-Ur17-05-Bard.pdf).

@@ -14,7 +14,7 @@ La gráfica ordenada de la cantidad de femicidios por provincia en la república
 
 Entendemos que esta afirmación debe ser seguida de una estimación que considere la cantidad de habitantes de cada provincia, ya que con ella contaremos con una cantidad más confiable para "medir" el impacto de la violencia machista sobre la vida de las mujeres. El [Censo 2010](https://www.sig.indec.gov.ar/censo2010/) provee los datos más actualizados respecto de la distribución poblacional de la República Argentina, por lo que es conveniente utilizarlo para estimar la *tasa* de muertes en hechos de femicidio en cada provincia.
 
-Así, se puede evaluar cuántas muertes por femicidio se han producido en la Argentina, desde 2012, cada 100.000 habitantes. La siguiente Tabla presenta muestra claramente esto, donde se pueden comparar las provincias también por su población y número total de femicidios.
+Así, se puede evaluar cuántas muertes por femicidio se han producido en la Argentina, desde 2012, cada 100.000 habitantes. La siguiente Tabla muestra claramente esto, donde se pueden comparar las provincias también por su población y número total de femicidios.
 
 ![Tasa de femicidios por provincia](img/tasa_femicidios_provincia.png)
 

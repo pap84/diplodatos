@@ -66,5 +66,30 @@ Este gráfico da una señal de alarma. Las regiones de Cuyo, Patagonia y Noreste
 
 La situación más alarmante, en cambio, la tiene la región noreste donde la cantidad de femicidios prácticamente se duplicó de 2016 a 2017. El comportamiento parece no ser homogeneo en el país y son necesarios esfuerzos muy grandes desde la sociedad y el estado para atacar la problemática en las provincias del noreste argentino.
 
+## "La maté porque es mía"
+
+Para analizar el comportamiento de los femicidas e intentar dilucidar las causas que mueven este tipo de actos, es importante observar también la edad de las víctimas vinculadas y los asesinatos por género.
+
+### Ella, ellos, elles
+
+El estudio de los casos muestra que la gran mayoría de las victimas son mujeres, al punto que es necesario graficar en escala logarítmica para ver la contribución del resto de los géneros.
+
+![Víctimas por género](img/por_genero.png "femicidio por genero")
+
+### Tus niños/as, mis niños/as
+
+Pero para ver a quiénes se ataca cuando se quiere lastimar a la mujer, los femicidas actuan sobre determinados grupos etarios también.
+
+![Edad víctimas vinculadas](img/edad_vinculadas.png "femicidio vinculadas_edad")
+
+Las estadísticas muestran que la moda en la edad de los varones muertos en femicidios es de 3, 4 y 7 años, mientras que la media y la mediana ascienden a 22 y 20 años respecticamente.
+
+Se observa además, que en las víctimas vinculadas mujeres, la moda es 11 y 19 años, mientas que la media y la mediana son de 28 y 19 años respectivamente.
+
+Esto demuestra que no solo las mujeres son propiedad del hombre heteropatriarcal, según su concepción. Sin información exacta sobre el vínculo de las víctimas vinculadas con la principal, se puede inferir que se trata de niños y niñas, que seguramente son hijos e hijas de las mujeres asesinadas.
+
+Este último aspecto, fortalece la afirmación de *Bard Wigdor* y *Artazo* al entender al femicidio como herencia colonial capitalista y patriarcal. La instrumentación capitalista del cuerpo y paisaje de la mujer por parte del hombre "*se legitima mediante la construcción de un mundo simbólico inter-subjetivo con pretensiones de totalidad, que racionaliza narrativas y prácticas irracionales, como el femicidio, sustentado en la supuesta inferioridad de determinados sujetos frente a otros/as*". Estos sujetos, nos permitimos afirmar, en la mayoría de los casos, son hijos e hijas.
+
+Lamentablemente, los datos no dan cuenta del nivel socio-culutural-económico de las víctimas, pero se puede inferir por las estadísticas en la región noroeste del país, que es en las zonas con mayores índices de religiosidad y conservadurismo social donde se vuelve más peligroso vivir para las mujeres.
 
 [1] *"La maté porque es mía": femicidios en la provincia de Córdoba*. **G. Bard Wigdor & G.C. Artazo**, [Revista Latinoamericana de Estudios de Seguridad, No. 17, Quito, diciembre 2015, pp. 67-79](http://repositorio.flacsoandes.edu.ec/bitstream/10469/7962/1/RFLACSO-Ur17-05-Bard.pdf).
